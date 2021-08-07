@@ -81,4 +81,6 @@ LeetCode
 
 |제목|레벨|푼날짜| 문제 유형|
 |:--:|:--:|:---:|:---------:|
+|Two Sum| Easy | 2021.08.07| 완전탐색|
 |Add two Numbers| Medium| 2021.08.07 | 링크드 리스트, 덧셈|
+|Longest Substring Without Repeating | Medium | 2021.08.07 | 슬라이딩 윈도우, 투 포인터|
